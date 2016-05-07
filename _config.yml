@@ -1,0 +1,28 @@
+name: Basamd
+favicon: null
+layout_spectrum: 0.21731874532997608
+typography_spectrum: 0.458539696643129
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2945895348675549
+  lightness: 0.5150098151061684
+  saturation: 0.5200489342678338
+  rhythmicContrast: 0.3689426926430315
+purpose: []
